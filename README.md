@@ -3,8 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suraj-dhankad2025&label=Profile%20views&color=0e75b6&style=flat" alt="suraj-dhankad2025" /> </p>
 
-- 🔭 I’m building scalable backend systems using **Typescript **
-
+- 🔭 I’m building scalable softwares to solve real-world problems.
 - 🌱 I’m currently learning **Web 3.0 ,**
 
 - 👯 I’m looking to collaborate on [Learning management system for creating the frontend using React and Typescript](https://github.com/Suraj-Dhankad2025/Learning-Management-System)
