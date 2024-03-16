@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Suraj Dhankad</h1>
-<h3 align="center">A passionate Full Stack developer from India</h3>
+<h3 align="center">A passionate Full Stack developer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suraj-dhankad2025&label=Profile%20views&color=0e75b6&style=flat" alt="suraj-dhankad2025" /> </p>
 
-- 🔭 I’m currently working on **a full stack Twitter Clone**
+- 🔭 I’m building scalable backend systems using **Typescript **
 
-- 🌱 I’m currently learning **Web 3.0 and Blockchain,**
+- 🌱 I’m currently learning **Web 3.0 ,**
 
 - 👯 I’m looking to collaborate on [Learning management system for creating the frontend using React and Typescript](https://github.com/Suraj-Dhankad2025/Learning-Management-System)
 
